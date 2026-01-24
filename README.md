@@ -29,7 +29,7 @@ CGPA: 9.4
 - Automated workflows, reducing **manpower requirements by 40%**.
 
 ## 📈 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dharaneesh-Selvara&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dharaneesh-Selvaraj&show_icons=true&theme=radical)
 
 ## 📣 Connect with me:
 - [LinkedIn](https://www.linkedin.com/in/dharaneeshselvaraj)
